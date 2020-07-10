@@ -21,3 +21,11 @@
 - id generator using uuid
 
 - router
+
+## Q&A
+- Clear all stores or set them all to its initial state : https://github.com/vuejs/vuex/issues/1118
+
+## Additional
+- Vuetify: https://vuetifyjs.com/en/
+- Momentjs: https://momentjs.com/
+- Epoch & unix stamp converter: https://www.epochconverter.com/
